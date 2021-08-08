@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jarek</h1>
 <h3 align="center">I am a self-taught developer</h3>
 
-- 🌱 I’m currently learning **Flutter and Redux**
+- 🌱 I’m currently learning **Flutter bloc**
 
 
 <h3 align="left">Languages and Tools:</h3>
